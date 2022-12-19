@@ -36,7 +36,7 @@ echo -e "\e[1;30m         ▀▄▄─▐───────▄█▒▒▒▒
 echo -e "\e[1;30m         ▒▒▒▀█───█▄▀▀▀▒▒▒▒▒▒▒\e[0m"
 echo -e "\e[1;30m         ▒▒▒▒▒▀▀▀▒▒▒▒▒▒▒▒▒▒▒▒\e[0m" "\e[33mBETA\e[0m"
 echo -e ""
-echo -e "\e[1;34m            by \e[1;37m: \e[31mMonkey-hk4"                     
+echo -e "\e[1;34m            by \e[1;37m: \e[31mCris"                     
 echo -e "\e[31m ===================================\e[0m"
 echo -e "\e[36m        ┬┌┐┌┌─┐┌─┐┌─┐┌┐┌┬┌┬┐┌─┐"
 echo -e "\e[36m        │││││  │ ││ ┬││││ │ │ │"
@@ -59,7 +59,7 @@ read -r Opcion_Incog
 [ "$Opcion_Incog" == "1" ]||[ "$Opcion_Incog" == "2" ]||[ "$Opcion_Incog" == "3" ]||[ "$Opcion_Incog" == "4" ] && break
 
 echo -e "\e[31m
-Incognito no reconoce esa opción :? "
+Private no reconoce esa opción :? "
 
 sleep 1.5
 done
