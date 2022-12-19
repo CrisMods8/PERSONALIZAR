@@ -10,7 +10,7 @@ Al instalar Termux en tu móvil, dispondrás de un emulador de terminal para And
 # Instalación
 - apt update && pkg upgrade -y
 - pkg install git
-- git clone https://github.com/Monkey-hk4/Incognito
+- git clone https://github.com/cagthegame/Private
 - cd Incognito
 - chmod +x *
 - bash incognito.sh
@@ -21,6 +21,5 @@ Al instalar Termux en tu móvil, dispondrás de un emulador de terminal para And
 - [3] Instalar el efecto matrix
 - [4] Salir
 
-Hecho por monkey-hk4 :?  /incógnito
-
+Hecho por Cris :?  /Private
 
