@@ -7,7 +7,7 @@
 #banner
 #
 #
-#Instagram: monkey_hk4
+#Instagram: rawleys_ofc
 #
 #
 function banertor {
@@ -141,8 +141,8 @@ case $Opcion_Incog in
                       ;;
             2)
             cd
-            git clone https://github.com/Anonymous-Zpt/T-banner4
-            cd T-banner4
+            git clone https://github.com/CrisOfcHack/T-banner
+            cd T-banner
 			chmod +x *
 			bash T-banner
 			;;
